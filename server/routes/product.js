@@ -16,7 +16,7 @@ router.post('/postproduct',async(req,res)=>{
 })
 
 //getroute
-//https://github.com/Dakshay724/digikullnodeproject.git
+
 router.get('/getproduct',async(req,res)=>{
     try{
         //  const{name ,price ,quantity,brand}=req.body
